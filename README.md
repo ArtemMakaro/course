@@ -22,7 +22,7 @@
 * $ make
 * $ bin/main
 ## Сборка и запуск тестов
-* $ cd course-project
+* $ cd course
 * $ make test
 * $ bin/test
 
