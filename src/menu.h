@@ -1,6 +1,5 @@
 #if !defined MENU_H
 #define MENU_H
-
 #include <locale.h>
 #include <stdio.h>
 #include <stdlib.h>
