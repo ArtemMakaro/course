@@ -8,15 +8,15 @@
 #include <time.h>
 
 struct word {
-  char angl[20];
-  char rus[40];
+    char angl[20];
+    char rus[40];
 } t1;
 struct word w1[25];
 
 void menu();
 void print1();
 void print2();
-int check_word(char *a, char *b);
+int check_word(char* a, char* b);
 int backmenu(int a);
 int back_m(int a);
 int backm(int a);

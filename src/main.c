@@ -3,7 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main() {
-  vvod();
-  return 0;
+int main()
+{
+    vvod();
+    return 0;
 }
