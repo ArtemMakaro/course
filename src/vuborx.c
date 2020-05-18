@@ -1,8 +1,8 @@
+#include "vuborx.h"
 #include "look.h"
 #include "menu.h"
 #include "test.h"
 #include "vubortemy.h"
-#include "vuborx.h"
 #include "vvod.h"
 #define ESCAPE 27
 #define ENTER 13

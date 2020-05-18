@@ -1,5 +1,6 @@
 #if !defined TEST_H
 #define TEST_H
+#include "menu.h"
 #include <locale.h>
 #include <stdio.h>
 #include <stdlib.h>
